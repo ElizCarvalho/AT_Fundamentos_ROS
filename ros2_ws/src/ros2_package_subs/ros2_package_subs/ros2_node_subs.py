@@ -12,7 +12,7 @@ class Subs(Node):
             1)
         self.subscription
     def listener_callback(self, msg):
-        result = "\nSensor = {0}\n".format(msg)
+        result = "\nSensor = {0}\n".format(msg.data)
         self.get_logger().info(result)
         
 def main(args=None):
