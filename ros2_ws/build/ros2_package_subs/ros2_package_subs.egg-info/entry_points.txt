@@ -1,0 +1,3 @@
+[console_scripts]
+ros2_node_subs = ros2_package_subs.ros2_node_subs:main
+

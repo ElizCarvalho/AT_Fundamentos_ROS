@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/ros2_package_subs/ros2_package_subs.egg-info
+writing ../../build/ros2_package_subs/ros2_package_subs.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_package_subs/ros2_package_subs.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_package_subs/ros2_package_subs.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_package_subs/ros2_package_subs.egg-info/requires.txt
+writing top-level names to ../../build/ros2_package_subs/ros2_package_subs.egg-info/top_level.txt
+writing manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build
+creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib
+creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+copying ros2_package_subs/__init__.py -> /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+copying ros2_package_subs/ros2_node_subs.py -> /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+running install
+running install_lib
+creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+copying /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs/__init__.py -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+copying /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs/ros2_node_subs.py -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+byte-compiling /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs/ros2_node_subs.py to ros2_node_subs.cpython-38.pyc
+running install_data
+creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index
+creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index
+creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index/packages
+copying resource/ros2_package_subs -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index/packages
+copying package.xml -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ros2_package_subs
+running install_egg_info
+Copying ../../build/ros2_package_subs/ros2_package_subs.egg-info to /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs-0.0.0-py3.8.egg-info
+running install_scripts
+Installing ros2_node_subs script to /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/ros2_package_subs
+writing list of installed files to '/home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/install.log'

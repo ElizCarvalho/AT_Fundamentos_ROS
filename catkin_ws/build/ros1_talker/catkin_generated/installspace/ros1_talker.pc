@@ -1,0 +1,8 @@
+prefix=/home/eliz/at_fund_ros/catkin_ws/install
+
+Name: ros1_talker
+Description: Description of ros1_talker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

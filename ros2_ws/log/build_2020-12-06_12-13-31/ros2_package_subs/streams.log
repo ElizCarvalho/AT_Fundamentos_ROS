@@ -1,0 +1,37 @@
+[0.603s] Invoking command in '/home/eliz/at_fund_ros/ros2_ws/src/ros2_package_subs': PYTHONPATH=/home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_package_subs build --build-base /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build install --prefix /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs --record /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/install.log --single-version-externally-managed
+[1.413s] running egg_info
+[1.414s] creating ../../build/ros2_package_subs/ros2_package_subs.egg-info
+[1.415s] writing ../../build/ros2_package_subs/ros2_package_subs.egg-info/PKG-INFO
+[1.415s] writing dependency_links to ../../build/ros2_package_subs/ros2_package_subs.egg-info/dependency_links.txt
+[1.416s] writing entry points to ../../build/ros2_package_subs/ros2_package_subs.egg-info/entry_points.txt
+[1.416s] writing requirements to ../../build/ros2_package_subs/ros2_package_subs.egg-info/requires.txt
+[1.416s] writing top-level names to ../../build/ros2_package_subs/ros2_package_subs.egg-info/top_level.txt
+[1.488s] writing manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+[1.797s] reading manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+[1.799s] writing manifest file '../../build/ros2_package_subs/ros2_package_subs.egg-info/SOURCES.txt'
+[1.799s] running build
+[1.800s] running build_py
+[1.800s] creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build
+[1.800s] creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib
+[1.801s] creating /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+[1.801s] copying ros2_package_subs/__init__.py -> /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+[1.801s] copying ros2_package_subs/ros2_node_subs.py -> /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs
+[1.801s] running install
+[1.803s] running install_lib
+[1.827s] creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+[1.828s] copying /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs/__init__.py -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+[1.828s] copying /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build/lib/ros2_package_subs/ros2_node_subs.py -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs
+[1.830s] byte-compiling /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs/__init__.py to __init__.cpython-38.pyc
+[1.851s] byte-compiling /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs/ros2_node_subs.py to ros2_node_subs.cpython-38.pyc
+[1.852s] running install_data
+[1.853s] creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index
+[1.854s] creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index
+[1.854s] creating /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index/packages
+[1.854s] copying resource/ros2_package_subs -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ament_index/resource_index/packages
+[1.855s] copying package.xml -> /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/share/ros2_package_subs
+[1.855s] running install_egg_info
+[1.860s] Copying ../../build/ros2_package_subs/ros2_package_subs.egg-info to /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages/ros2_package_subs-0.0.0-py3.8.egg-info
+[1.862s] running install_scripts
+[1.917s] Installing ros2_node_subs script to /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/ros2_package_subs
+[1.917s] writing list of installed files to '/home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/install.log'
+[1.958s] Invoked command in '/home/eliz/at_fund_ros/ros2_ws/src/ros2_package_subs' returned '0': PYTHONPATH=/home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_package_subs build --build-base /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/build install --prefix /home/eliz/at_fund_ros/ros2_ws/install/ros2_package_subs --record /home/eliz/at_fund_ros/ros2_ws/build/ros2_package_subs/install.log --single-version-externally-managed

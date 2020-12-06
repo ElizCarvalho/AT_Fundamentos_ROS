@@ -1,0 +1,2 @@
+ros1_talker
+-DCATKIN_DEVEL_PREFIX=/home/eliz/at_fund_ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eliz/at_fund_ros/catkin_ws/install -G Unix Makefiles
