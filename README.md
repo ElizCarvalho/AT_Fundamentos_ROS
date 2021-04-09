@@ -1,6 +1,6 @@
 #### Instituto Infnet
 #### Disicplina: Fundamento de ROS
-#### Prof.: M.e. Adalberto Oliveira
+#### Prof.: M.e. Miguel Fensterseifer
 #### Assessment
 
 Qst1- Explique com suas próprias palavras como funciona a medição de distância com ultrassom.<br/>
